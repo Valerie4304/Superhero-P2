@@ -1,2 +1,2 @@
-# Superhero-P2
+# SuperheroGame-P2
 This is my project 2

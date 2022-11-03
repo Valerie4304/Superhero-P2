@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(203, 199, 189);
+    }
+    
+    h1{
+        font-family: 'Montserrat';
+        font-size: 90 px;
+        background-color: rgb(80, 94, 63);
+    }
+
+    h2{
+        font-family: 'Stick No Bills', sans-serif;
+        background-color:#a99876;
+    }
+    
+    img{
+        width: 70%;
+        height: 100%;
+    }
+    
+    
+    #imageGallery{
+        display: grid;
+        grid-template-columns: 33%,33%,33%;
+        align-items: center;
+        justify-items: center;
+    }
+
+button{
+    display: inline-block;
+        background-color: #a99876;
+        border-radius: 50px;
+        border: 10px double #000000;
+        color: #000000;
+        text-align: center;
+        font-size: 16px;
+        padding: 10px;
+        width: 200px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 5px;
+}
+
+
+    
